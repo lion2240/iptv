@@ -1,20 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ElWatania1.tn@SD",El Watania 1
 https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8
-#EXTINF:-1 tvg-id="ElWatania2.tn@SD",El Watania 1
+#EXTINF:-1 tvg-id="ElWatania2.tn@SD",El Watania 2
 https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8
-#EXTINF:-1 tvg-id="MBC1.ae",MBC 1 (1080p)
-https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-id="MBC1.ae@SD",MBC 1 (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
 #EXTINF:-1 tvg-id="MBC4.ae@SD",MBC 4 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 tvg-id="MBC5.ae@SD",MBC 5 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 tvg-id="MBCMasrDrama.sa",MBC Masr Drama (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
-#EXTINF:-1 tvg-id="MBCPlusDrama.sa",MBC+ Drama (1080p)
+#EXTINF:-1 tvg-id="MBCMasrDrama.sa@SD",MBC Masr Drama (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
+#EXTINF:-1 tvg-id="MBCPlusDrama.sa@SD",MBC+ Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 tvg-id="MBCBollywood.ae@SD",MBC Bollywood (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 tvg-id="MBCDrama.ae@SD",MBC Drama (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
 #EXTINF:-1 tvg-id="MBCDrama.ae",MBC Drama KSA (1080p)
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1 tvg-id="MBC1Egypt.eg@HD",MBC 1 Egypt (1080p)
